@@ -10,6 +10,7 @@
 ### [piano-app]
 ### [dados-app]
 ### [tasks-app]
+### [movies-app]
 
 ## task
 ### Local
